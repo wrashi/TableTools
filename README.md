@@ -27,4 +27,4 @@ Or, the data is tab separated (TSV format) and you want to paste it into your Ma
 
 ###   Usage
 
-Usage should be straightforward, but more details can be found on [this blog post]().
+Usage should be straightforward, but more details can be found on [this blog post](https://wpenner.com/en/blog/dealing-with-table-data).
